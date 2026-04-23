@@ -18,7 +18,6 @@ Liver disease is a silent epidemic — millions go undiagnosed until irreversibl
 - [Explainability (SHAP)](#explainability)
 - [Run locally](#run-locally)
 - [Repo structure](#repo-structure)
-- [Future work](#future-work)
 - [License](#license)
 
 ## Overview
