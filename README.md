@@ -9,6 +9,8 @@
 
 Liver disease is a silent epidemic — millions go undiagnosed until irreversible damage occurs. This project builds a fully explainable ML pipeline that flags at-risk patients using routine blood tests, achieving a test ROC-AUC of **0.89** and explaining *why* the model makes each prediction using SHAP.
 
+💟 *My PowerBI Dashboard :-* [Click Here](https://github.com/Kaushal-2371/BI_Dashboards/tree/main/Kaggle-Liver_Disease)
+
 ## Table of contents
 
 - [Overview](#overview)
